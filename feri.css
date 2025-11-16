@@ -30,7 +30,7 @@
 	text-align: center;
     background-color: black;
     color: white;
-    padding: 200px;
+    padding: 15%;
     background-image: url(https://wallpapers.com/images/hd/youtube-thumbnail-dark-blue-skies-s547fxbuemt18mxg.jpg);
     border-radius: 16px;
    line-height: 50px;
@@ -115,5 +115,6 @@
 .vk{
 	background-image: url(image/vk.png);
 }
+
 
 
